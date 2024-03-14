@@ -1,5 +1,5 @@
 ublue_variants:
-  - label: kerwood/halo
+  - label: ok-amba/halo
     ks: /kickstart/ublue-os.ks
     flavors:
       - label: halo
